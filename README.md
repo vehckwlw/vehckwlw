@@ -1,4 +1,6 @@
 ## Meu nome é Arthur Gomes, estou estudando na Alura, JavaScript, Java, C++, C# (linguaguens de programação)
+email pra contato escolar: arthur.faria.gomes@escola.pr.gov.br
+email pra contato pessoal: firefox5538hzj@gmail.com
 
 <!--
 **vehckwlw/vehckwlw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
