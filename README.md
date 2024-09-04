@@ -1,4 +1,4 @@
-## Hi there 👋
+## Meu nome é Arthur Gomes, estou estudando na Alura, JavaScript, Java, C++, C# (linguaguens de programação)
 
 <!--
 **vehckwlw/vehckwlw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
